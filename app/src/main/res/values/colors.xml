@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="timer">#fbe8eb32</color>
+    <color name="score">#fbdfdfd7</color>
+    <color name="box1">#fb9dd30a</color>
+    <color name="box2">#fbff6417</color>
+    <color name="box3">#fb3b70f4</color>
+    <color name="box4">#fbf9282f</color>
+    <color name="gobtn">#e62e4ff5</color>
+
+</resources>
